@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deus-Mortis
 - 👀 I’m interested in Python,MySQL,Node.js
-- 🌱 I’m currently learning Python,MySQL
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on Python projects <3
 - 📫 How to reach me @Deus Mortis#1091 on Discord
 
